@@ -28,7 +28,7 @@
         "discord.js-docgen": "discordjs/docgen",
         "eslint": "^5.16.0",
         "jsdoc": "^3.5.5",
-        "tslint": "^5.15.0",
+        "tslint": "^6.1.2",
         "tslint-config-typings": "^0.3.1",
         "typescript": "^3.4.2"
     },
